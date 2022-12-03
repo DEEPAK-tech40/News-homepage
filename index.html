@@ -60,8 +60,10 @@
 
     <main>
         <figure>
-            <img src="/assets/images/image-web-3-mobile.jpg" id="mobile" alt="Mobile bg">
-            <img src="/assets/images/image-web-3-desktop.jpg" id="lap" alt="Desktop bg">
+            <picture>
+                <source media="(min-width: 600px)" srcset="/assets/images/image-web-3-desktop.jpg">
+                <img src="/assets/images/image-web-3-mobile.jpg" alt="">
+            </picture>
         </figure>
         <section class="des">
             <h1>

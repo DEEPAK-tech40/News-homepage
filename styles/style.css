@@ -208,7 +208,7 @@ body {
 
 main {
     display: grid;
-    grid-template-rows: 20rem 21% 35% 31.5%;
+    grid-template-rows: 20rem 21% 35.5% 31.5%;
     grid-template-columns: 1fr;
     row-gap: 3rem;
     padding: 0 2%;
@@ -358,6 +358,11 @@ footer {
 footer>p>a {
     color: var(--Softred);
     text-decoration: none;
+}
+
+body>div {
+    position: absolute;
+    top: 117%;
 }
 
 @media screen and (min-width:600px) and (max-height:1000px) {

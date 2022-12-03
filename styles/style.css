@@ -273,7 +273,7 @@ main>figure>img {
     display: flex;
     flex-direction: column;
     padding: 7.5%;
-    gap: 7.5%;
+    gap: 7%;
 }
 
 .new>h1 {

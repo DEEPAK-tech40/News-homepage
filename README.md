@@ -28,8 +28,8 @@ Mobile-view:
 
 ### Links
 
-- Solution URL: [Soution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Soution](https://www.frontendmentor.io/solutions/newshomepage-VzOIznwqzq)
+- Live Site URL: [Live site](https://deepak-tech40-news-homepage.netlify.app/)
 
 ## My process
 

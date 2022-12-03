@@ -207,7 +207,7 @@ body {
 
 main {
     display: grid;
-    grid-template-rows: 20rem 21% 30% 30%;
+    grid-template-rows: 20rem 21% 35% 31.5%;
     grid-template-columns: 1fr;
     row-gap: 3rem;
     padding: 0 2%;
@@ -271,7 +271,7 @@ main>figure>img {
     background-color: var(--Verydarkblue);
     display: flex;
     flex-direction: column;
-    padding: 6%;
+    padding: 7.5%;
     gap: 7.5%;
 }
 
@@ -300,7 +300,6 @@ hr {
 .new>blockquote>p {
     color: var(--Grayishblue);
     line-height: 1.7;
-    margin-bottom: 9.5%;
 }
 
 .art {
@@ -349,7 +348,7 @@ hr {
 
 footer {
     position: absolute;
-    top: 107%;
+    top: 114%;
     margin: 2%;
     color: var(--Verydarkblue);
     text-align: center;

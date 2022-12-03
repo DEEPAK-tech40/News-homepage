@@ -132,6 +132,7 @@ body {
     }
 
     .menu-logo {
+        display: inline;
         position: absolute;
         left: 0;
         top: 50%;

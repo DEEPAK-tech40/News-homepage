@@ -4,6 +4,9 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ## Overview
 
+![desktop-preview](https://user-images.githubusercontent.com/94350356/205453187-8a63ee70-5df4-4f29-9442-d10250a5a8dc.jpg)
+
+
 ### The challenge
 
 Users should be able to:
@@ -13,6 +16,15 @@ Users should be able to:
 - **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
 ### Screenshot
+
+Desktop-view:
+
+![active-states](https://user-images.githubusercontent.com/94350356/205453199-e5d0cff3-641c-4489-8f89-6dc07eb78eaf.jpg)
+
+Mobile-view:
+
+![mobile-design](https://user-images.githubusercontent.com/94350356/205453210-c622b3ca-731d-478e-87b5-7cbc95451607.jpg)
+
 
 ### Links
 

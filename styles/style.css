@@ -356,7 +356,7 @@ footer>p>a {
     text-decoration: none;
 }
 
-body>div {
+body>p {
     position: absolute;
     top: 117%;
 }
@@ -426,15 +426,19 @@ body>div {
     }
 
     .art>figure>img {
-        width: 35%;
+        width: 33%;
     }
 
     .art>figure>figcaption>h2 {
-        font-size: 20px;
+        font-size: 19px;
     }
 
     footer {
         position: relative;
+        top: 100%;
+    }
+
+    body>p {
         top: 100%;
     }
 
